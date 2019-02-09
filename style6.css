@@ -1,0 +1,9 @@
+html,K{
+    color: blanchedalmond;
+    background-color: aquamarine;
+    background-image: url("kadijat.jpg");
+    background-position: left;
+    background-image: -moz-linear gradient(left,red,green);
+    backface-visibility: visible;
+    
+}

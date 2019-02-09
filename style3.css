@@ -1,0 +1,16 @@
+html, body {
+    background-color: bisque;
+}
+
+.container {
+    width: 450px;
+    height: 200px;
+    color: aqua;
+    margin: 20px 10px 10px 20px;
+    float: left;
+    grid: flex;
+    flex-direction: row;
+    grid-auto-columns: 20px;
+    grid-auto-rows: 30px;
+    flex-wrap: nowrap;
+}
